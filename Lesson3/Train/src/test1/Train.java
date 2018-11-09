@@ -9,43 +9,68 @@ public class Train {
     protected Integer hours;
     protected Integer min;
     protected int numberCoupe;
+    protected int numberCommon;
     protected int numberReserved;
-    protected int numberSuite;
-    private int freePlaces;
+    protected int numberLuxury;
 
-    public Train(String navigateTo, int namberTrain, Integer hours, Integer min) {
+
+    public Train(String navigateTo, int namberTrain, Integer hours, Integer min, int numberCoupe, int numberReserved, int numberCommon, int numberLuxury) {
         System.out.println("Train constructor");
         this.navigateTo = navigateTo;
         this.namberTrain = namberTrain;
         this.hours = hours;
         this.min = min;
+        this.numberCoupe = numberCoupe;
+        this.numberReserved = numberReserved;
+        this.numberCommon = numberCommon;
+        this.numberLuxury = numberLuxury;
     }
 
-    public void namberPlaces(){
-        System.out.println("All plases " + numberCoupe + numberReserved + numberSuite);
-    }
 
-    public void showAll(){
-        System.out.println("Train " + namberTrain);
-        System.out.println("Namber " + namberTrain);
-        System.out.println("Time " + hours + "" + min);
-
-    }
-
-    public void fromToX() {
-        if ((this.navigateTo).equals("Minsk")) {
-            System.out.println("TrainNamber" + namberTrain);
-            System.out.println(" " + navigateTo);
-            System.out.println(" " + hours + " " + min);
-        }
+    public void print() {
+        System.out.print("Train " + namberTrain + " ");
+        System.out.print("Navigate " + navigateTo + " ");
+        System.out.println("Time " + "h " + hours + "m " + min);
 
     }
 
-    public void setFreePlaces(int freePlaces) {
-        this.freePlaces = freePlaces;
+    public void print2() {
+        System.out.print("Train " + namberTrain + " ");
+        System.out.print("Navigate " + navigateTo + " ");
+        System.out.print("Time " + "h " + hours + "m " + min);
+        System.out.println("having common places " + numberCommon);
+
     }
 
-    public int getFreePlaces() {
-        return freePlaces;
+    public Integer getHours() {
+        return hours;
+    }
+
+    public void setHours(Integer hours) {
+        this.hours = hours;
+    }
+
+    public Integer getMin() {
+        return min;
+    }
+
+    public void setMin(Integer min) {
+        this.min = min;
+    }
+
+    public String getNavigateTo() {
+        return navigateTo;
+    }
+
+    public void setNavigateTo(String navigateTo) {
+        this.navigateTo = navigateTo;
+    }
+
+    public int getNumberCommon() {
+        return numberCommon;
+    }
+
+    public void setNumberCommon(int numberCommon) {
+        this.numberCommon = numberCommon;
     }
 }
