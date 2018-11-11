@@ -165,6 +165,37 @@ public class Main {
             System.out.print(", " + doWhileOp);
             doWhileOp++;
         } while (doWhileOp < 100);
+        System.out.println();
+
+//        16. Вывести на экран ряд натуральных чисел от минимума до максимума с шагом. Например, если минимум 10, максимум 35,
+// шаг 5, то вывод должен быть таким: 10 15 20 25 30 35. Минимум, максимум и шаг указываются пользователем (можно захардкодить).
+
+        for (int i = 10; i <= 35; i = i + 5) {
+            System.out.print(", " + i);
+
+        }
+        System.out.println();
+//        17. Все элементы массива поделить на значение наибольшего элемента этого массива.
+        int[] array = new int[] {1, 2, 3, 4, 5, 4, 3, 2, 1, 2 };
+        for (int i = 0; i < array.length; i++) {
+            System.out.print(" " + array[i]);
+        }
+        System.out.println();
+        double max = array[0];
+        for (int i = 1; i < array.length; i++) {
+            if (array[i] > max) max = array[i];
+        }
+        System.out.println("Наибольший элемент: " + max);
+        System.out.println();
+        for (int i = 1; i < array.length; i++){
+            System.out.print(", " + i / max);
+        }
+        System.out.println();
+//        18. Напишите метод переводящий рубли в доллары по заданному курсу. В качестве аргументов укажите кол-во рублей и курс.
+        double kollRubls = 10 ;
+        double kurs = 2.1;
+        double baks = kollRubls*kurs;
+        System.out.println(kollRubls + "в  доллары по заданному курсу " + "= " + baks);
     }
-    
+
 }
