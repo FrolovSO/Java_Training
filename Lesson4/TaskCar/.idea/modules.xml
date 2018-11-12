@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/stepic.iml" filepath="$PROJECT_DIR$/stepic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TaskCar.iml" filepath="$PROJECT_DIR$/TaskCar.iml" />
     </modules>
   </component>
 </project>
