@@ -2,82 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89fd821a-c5a8-4bf0-8fb7-a4c685ef5aa3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Task1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/ClassTest/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/ClassTest/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/ClassTest/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/ClassTest/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/ClassTest/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/ClassTest/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/ClassTest/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/ClassTest/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/ClassTest/ClassTest.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/ClassTest/out/production/ClassTest/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/ClassTest/out/production/ClassTest/test1/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/ClassTest/out/production/ClassTest/test1/Golf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/ClassTest/out/production/ClassTest/test1/Jetta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/ClassTest/out/production/ClassTest/test1/JettaMax.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/ClassTest/out/production/ClassTest/test1/TestProtected.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/ClassTest/out/production/ClassTest/test1/VW.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/ClassTest/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/ClassTest/src/test1/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/ClassTest/src/test1/Golf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/ClassTest/src/test1/Jetta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/ClassTest/src/test1/JettaMax.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/ClassTest/src/test1/TestProtected.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/ClassTest/src/test1/VW.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/StepicTest/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/StepicTest/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/StepicTest/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/StepicTest/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/StepicTest/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/StepicTest/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/StepicTest/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/StepicTest/StepicTest.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/StepicTest/out/production/StepicTest/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/StepicTest/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/Task1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/Task7/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/Task7/out/production/Task7/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/Trening3/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/Trening3/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/Trening3/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/Trening3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/Trening3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/Trening3/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/Trening3/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/Trening3/Trening3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/Trening3/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/traning3/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/traning3/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/traning3/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/traning3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/traning3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/traning3/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/traning3/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/traning3/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson3/traning3/traning3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson4/Sweets/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson4/Sweets/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson4/Sweets/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson4/Sweets/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson4/Sweets/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson4/Sweets/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson4/Sweets/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson4/Sweets/Sweets.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson4/Sweets/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson4/stepic/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson4/stepic/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson4/stepic/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson4/stepic/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson4/stepic/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson4/stepic/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson4/stepic/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson4/stepic/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson4/stepic/stepic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lesson4/TaskCar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lesson4/TaskCar/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lesson4/TaskCar/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lesson4/TaskCar/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lesson4/TaskCar/src/test1/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lesson4/TaskCar/src/test1/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lesson4/TaskCar/src/test1/TestProtected.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -111,8 +40,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="38" column="31" lean-forward="true" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+            <state relative-caret-position="34">
+              <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -155,7 +84,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542028395067" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542029143579" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -234,8 +163,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="38" column="31" lean-forward="true" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+        <state relative-caret-position="34">
+          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
         </state>
       </provider>
     </entry>
