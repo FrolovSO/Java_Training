@@ -1,9 +1,9 @@
 package training8;
 
-public class ChangeText {
+public class CapitalLetter {
     private String testCharArray;
 
-    public ChangeText(String testCharArray) {
+    public CapitalLetter(String testCharArray) {
         this.testCharArray = testCharArray;
     }
 
