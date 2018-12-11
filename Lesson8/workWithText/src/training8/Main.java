@@ -25,7 +25,7 @@ public class Main {
 
         System.out.println("Task6 ");
         DuplicateWord duplicateWord = new DuplicateWord();
-        duplicateWord.showDuplicateWord();
+        System.out.println("Total count = " + duplicateWord.showDuplicateWord("the"));
 
         System.out.println("Task7 ");
         VowelsCounter vowelsCounter = new VowelsCounter();
