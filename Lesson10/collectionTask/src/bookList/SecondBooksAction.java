@@ -65,9 +65,12 @@ public class SecondBooksAction {
 
     public void secondAllBooks(){
         for (Book arrayHashSet : secondArrayBookList){
-        if (arrayHashSet.getBookName().equals("ahashBookName6")){
-            System.out.println(arrayHashSet);
-        }
+            char[]vowels={'a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'};
+            char [] arr = arrayHashSet.getBookName().toCharArray();
+                for (int j=0; j<vowels.length; j++)
+                    if(arr[0]==vowels[j]){
+                        System.out.println(arrayHashSet);
+                    }else break;
         }
 
     }
